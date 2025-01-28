@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrDeym
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Back-end
-- 💞️ I’m looking to collaborate on ...DBMS
+- 🌱 I’m currently learning ...React
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
